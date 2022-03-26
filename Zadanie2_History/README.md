@@ -43,4 +43,4 @@ Algorytm powinien być samodzielną implementacją następującego algorytmów: 
 
 ### RYSUNEK POMOCNICZY
 
-![rysunekPomocniczy](1.png)
+![rysunekPomocniczy](../images/history.png)
