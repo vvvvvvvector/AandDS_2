@@ -1,4 +1,4 @@
-# Zadanie "Targi Tatuażu" 
+# Zadanie "Targi Tatuażu" (Binary search tree) 
 
 ## Treść zadania
 
