@@ -47,3 +47,5 @@ Na giełdach pomijane są koszty zamiany PLN na kryptowaluty, a prowizji ulega w
 ### RYSUNEK POMOCNICZY
 
 ![rysunek pomocniczy](../images/byteCoin.png)
+
+![Zadanie1Tests](../TestResults/Zadanie1.png)

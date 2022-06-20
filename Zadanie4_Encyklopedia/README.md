@@ -37,3 +37,5 @@ Ptak hodowlany z rodziny kurowatych.
 
 ### UWAGA
 Rozwiązanie powinno wykorzystywać samodzielną implementację B-drzew, gdzie parametr T charakterystyczny dla B-drzewa zawiera się w przedziale [10, 20].
+
+![Zadanie4Tests](../TestResults/Zadanie4.png)

@@ -42,3 +42,5 @@ int Grazyna(int HH, int mm){
 
 ### UWAGA
 Zadanie powinno być rozwiązane metodą Monte Carlo.
+
+![Zadanie7Tests](../TestResults/Zadanie7.png)

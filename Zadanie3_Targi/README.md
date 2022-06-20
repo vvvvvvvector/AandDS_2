@@ -46,7 +46,7 @@ Tomeczek
 ### UWAGA
 Program powinien być samodzielną implementacją binarnego drzewa przeszukiwań (BST - Binary Search Tree).
 
-
+![Zadanie3Tests](../TestResults/Zadanie3.png)
 
 
 

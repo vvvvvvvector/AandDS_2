@@ -30,3 +30,5 @@ Wyświetl **pozycję pierwszego wystąpienia subsekwencji w kolejnym okresie**. 
 ```
 ### UWAGA
 Zadanie powinno być samodzielną implementacją algorytmu Rabina-Karpa.
+
+![Zadanie5Tests](../TestResults/Zadanie5.png)

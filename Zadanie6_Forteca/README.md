@@ -35,3 +35,5 @@ Należy wypisać pole obszaru królestwa Mairona z dokładnością do 3 miejsc p
 ```
 14.500
 ```
+
+![Zadanie6Tests](../TestResults/Zadanie6.png)

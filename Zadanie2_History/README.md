@@ -44,3 +44,5 @@ Algorytm powinien być samodzielną implementacją następującego algorytmów: 
 ### RYSUNEK POMOCNICZY
 
 ![rysunekPomocniczy](../images/history.png)
+
+![Zadanie2Tests](../TestResults/Zadanie2.png)
